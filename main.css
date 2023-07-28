@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color:wheat;
+}
+body{
+    background-color: goldenrod;
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+    
+}
+#buttons li {
+    float: left;
+    list-style:none;
+    text-align: center;
+    background-color:blanchedalmond;
+    margin-right: 310px;
+    width: 150px;
+    line-height: 60px;
+   
+  }
+
+  #buttons li a {
+    color: black;
+    display: block;
+  }
+  
+  #buttons li a:hover {
+    color: #000000;
+    background-color: brown;
+  }
+
+
+
