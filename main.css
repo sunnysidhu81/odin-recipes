@@ -1,9 +1,10 @@
 h1{
     text-align: center;
     color:wheat;
+    font-family: cursive;
 }
 body{
-    background-color: goldenrod;
+    background-color:peru;
 }
 
 .center{
@@ -14,13 +15,14 @@ body{
     
 }
 #buttons li {
-    float: left;
-    list-style:none;
     text-align: center;
+    float:right;
+    list-style:none;
     background-color:blanchedalmond;
-    margin-right: 310px;
+    margin-right: 250px;
     width: 150px;
     line-height: 60px;
+    font-family:cursive;
    
   }
 
